@@ -1,6 +1,3 @@
-# Web前端程序员简历模板
-
-
 # 联系方式
 
 - 邮箱: <gjlove666@hotmail.com>
