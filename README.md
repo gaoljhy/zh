@@ -9,9 +9,9 @@
 
  - 高荣基/男/1997 
  - 普通一本/内蒙古农业大学计算机系 
- - 博客: [github](https://gaoljhy.github.io/blog)
- - && 之前的博客：[csdn](https://blog.csdn.net/lendq)
- - Github: [gaoljhy](http://github.com/gaoljhy)
+ - 博客: <https://gaoljhy.github.io/blog> (因为secret alert较多, 转为私有，如有需要可以开放部分)
+ - && 之前的博客：<https://blog.csdn.net/lendq>
+ - Github: <http://github.com/gaoljhy>
  - 个人主页: <https://grj321.com>
  - 英文主页: <https://gaoljhy.github.io>
 
