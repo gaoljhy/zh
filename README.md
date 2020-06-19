@@ -20,7 +20,7 @@
 
 ### 简单总结
 
-+ 系统：MacOS, Linux ,Windows熟练使用,会编写Shell脚本，会进行网络等硬件调配优化，日常三系统切换。 
++ 系统：MacOS, Linux ,Windows熟练使用,编写脚本,网络等硬件调配优化，日常三系统切换。 
 + 语言： Python/c 熟练， php / Java /C sharp/JavaScript(Node)/Cpp 用过  
 + 前端框架：  Bootstrap ,Jquery 框架 
 + 后端框架 ： Spring Boot、flask、Django 框架，官方手册通读，其他框架也能快速上手 
@@ -30,10 +30,11 @@
 + 硬件：使用过 Arduino 和树莓派开发，无人机传感，夹取控制等，自动滑轨，手势识别等等 
 + 运维：配置维护过容器化应用，K8s等集群，使用过openstack。 
 + 测试：xUnit的单元测试和集成测试，其余多数为零散开源项目测试
-+ 操作系统以及CPU：复现过《30 天自制操作系统》,以及课程设计中独立完成基于Linux的Raspberry pi OS ，用Proteus 实现过一个32位流水线CPU
 + 文档：参与过tensorflow开源文档编写校对，以及wiki社区
 + 插件开发 ：vscode和Firefox的都有做过 
 + 数据结构扎实，基本算法掌握牢固，ACM主力军，刷过Leetcode和一些如杭电的ACM网站，一般有思路半小时解决，没思路就慢慢磕。 
+
+复现过《30 天自制操作系统》,以及课程设计中独立完成基于Linux的Raspberry pi OS ，用Proteus 实现过一个32位流水线CPU,对计算机整体有一定认识
 
 获奖情况: 全国3个， 省级7个，校级不算，工程做过一些，接过几个外包(签了合同的)。
 
