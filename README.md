@@ -9,15 +9,14 @@
 
  - 高荣基/男/1997 
  - 普通一本/内蒙古农业大学计算机系 
- - 博客: <https://gaoljhy.github.io/blog> (因为secret alert较多, 转为私有，如有需要可以开放部分)
- - && 之前的博客：<https://blog.csdn.net/lendq>
+ - 博客:
+   - 个人服务器搭建Blog:<https://hop.grj321.com/>
+   - Github:<https://gaoljhy.github.io/blog> (因为secret alert较多, 转为私有，如有需要可以开放部分)
+   - && 之前的CSDN：<https://blog.csdn.net/lendq>
  - Github: <http://github.com/gaoljhy>
  - 个人主页: <https://grj321.com>
  - 英文主页: <https://gaoljhy.github.io>
-
  - 期望职位：DevOps 开发运维工程师
- - 城市：便于找房子即可，无其他限制
- - 期望薪资：10k
 
 ----
 
@@ -38,8 +37,10 @@
 + 写过分布式爬虫，一般网站都能爬 ，后来基于Celery做过一个爬虫框架 
 
 
-获奖情况的话全国3个， 省级7个，校级不算，工程做过一些，接过3个外包(签了合同的)。<br>
-小程序写过一个计算器练手，OpenCV的图像识别在无人机抓取中简单使用，商城二次开发一个，问卷调查一个， 文档管理一个
+获奖情况的话全国3个， 省级7个，校级不算，工程做过一些，接过几个外包(签了合同的)。<br>
+小程序早些时期写过几个，OpenCV的图像识别在无人机抓取中简单使用<br>
+商城二次开发，问卷调查，文档管理，沙漠数据处理<br>
+在RedHat实习过，那过红帽的证书，也在银行呆过一段时间
 
 ---
 
@@ -65,8 +66,6 @@
  - [QQImitate](https://github.com/gaoljhy/QQImitate)：设计模仿QQ实现一款通讯软件，课程设计
  
  > 还有一些高start的项目提交过不少代码，个人认为没有什么技术含量就不再这里放置，需要可以查看我的代码提交
-
-
 
 
 ---
