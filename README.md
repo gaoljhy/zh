@@ -1,18 +1,15 @@
-# 联系方式
+### 联系方式
 
 - 邮箱: <gjlove666@hotmail.com>
 - tel: [18503498358](tel://18503498358)
 
 ---
 
-# 个人信息
+### 个人信息
 
  - 高荣基/男/1997 
  - 普通一本/内蒙古农业大学计算机系 
- - 博客:
-   - 个人服务器搭建Blog:<https://hop.grj321.com/>
-   - Github:<https://gaoljhy.github.io/blog> (因为secret alert较多, 转为私有，如有需要可以开放部分)
-   - && 之前的CSDN：<https://blog.csdn.net/lendq>
+ - 博客:个人服务器搭建[Blog](https://hop.grj321.com/) , [Github](https://gaoljhy.github.io/blog) (因为secret alert较多, 暂时转为私有),[CSDN](https://blog.csdn.net/lendq)
  - Github: <http://github.com/gaoljhy>
  - 个人主页: <https://grj321.com>
  - 英文主页: <https://gaoljhy.github.io>
@@ -20,7 +17,7 @@
 
 ----
 
-# 简单总结
+### 简单总结
 
 + MacOS, Linux ,Windows熟练使用,会编写Shell脚本，会进行网络调配，日常三系统切换。 
 + 语言 Python/c 熟练， php / Java /C sharp/JavaScript(Node)/Cpp 项目用过  
@@ -28,7 +25,7 @@
 + 后端使用过 Spring Boot、flask、Django 框架，其他框架也能用，不是专精 但是项目中用过，官方手册也通读过 
 - 数据库相关：MySQL/SQLite
 - 测试：做过xUnit的单元测试和集成测试，其余都是零散的一些项目测试
-+ 复现过《30 天自制操作系统》 ,以及课程设计并独立完成基于Linux的Raspberry pi OS ，用Proteus 实现过一个32位流水线CPU
++ 复现过《30 天自制操作系统》,以及课程设计并独立完成基于Linux的Raspberry pi OS ，用Proteus 实现过一个32位流水线CPU
 + 参与过tensorflow开源文档编写校对，以及wiki社区
 + 插件开发做过vscode和Firefox的 
 + 搭建过博客，懂计算机网络基本知识，会配置 Apache、MySQL 、Redis 等及简单集群搭建。 
@@ -36,26 +33,26 @@
 + 使用过 Arduino 和树莓派开发，无人机传感，夹取控制等，自动滑轨，手势识别等等小玩意。 
 + 写过分布式爬虫，一般网站都能爬 ，后来基于Celery做过一个爬虫框架 
 
-
-获奖情况的话全国3个， 省级7个，校级不算，工程做过一些，接过几个外包(签了合同的)。<br>
-小程序早些时期写过几个，OpenCV的图像识别在无人机抓取中简单使用<br>
-商城二次开发，问卷调查，文档管理，沙漠数据处理<br>
-在RedHat实习过，那过红帽的证书，也在银行呆过一段时间
+获奖情况: 全国3个， 省级7个，校级不算，工程做过一些，接过几个外包(签了合同的)。<br>
+小程序早些时期写过几个，也在无人机抓取中简单使用OpenCV的图像识别<br>
+应用开发做过商城二次开发，问卷调查，文档管理，沙漠数据处理<br>
 
 ---
 
-# 经历
+## 经历
 
-## 蒙牛云计算中心 （ 2018年9月 ~ 2019年9月 ）
+> 实习经历在RedHat实习过，拿过红帽的证书，也在银行呆过一段时间
 
-### 运维项目 
+### 蒙牛云计算中心 （ 2018年9月 ~ 2019年9月 ）
+
+#### 运维项目 
 - 面向客户部署的运维，负责web服务，MySQL数据库等等部署实现
 - 基于zabbix的集群配置，日志分析，预警监控等
 - 定制化的python调用官方接口实现自定义监控项目
 - 自学Docker以及K8s在个人主机上实现运维部署
 
 
-## 小诺星信息科技公司  （ 2017年6月 ~ 2017年9月 ）
+#### 小诺星信息科技公司  （ 2017年6月 ~ 2017年9月 ）
 - Django，flask等 CRUD使用
 - Mysql 双热备份实现
 - Redis 数据缓存配置
@@ -64,9 +61,9 @@
 
 ---
 
-# 开源项目和作品
+### 开源项目和作品
 
-## 开源项目
+##### 开源项目
 
  - [Shadowsocks](http://github.com/shadowsocks/shadowsocks)：Shadowsocks参与代码的开发及设计讨论
  - [MyDoOS](https://github.com/gaoljhy/MyDoOS)：基于树莓派3b+的ARM板子做的一个课程设计OS
