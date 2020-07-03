@@ -14,7 +14,7 @@
  - 个人主页: <https://hop.grj321.com>
  - 英文主页: <https://gaoljhy.github.io>
  - 自学能力较强，热爱运动，富有则责任感
- - 期望职位：DevOps 开发运维工程师
+ - 期望职位：后端开发
 
 ----
 
