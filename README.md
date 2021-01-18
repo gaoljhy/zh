@@ -13,7 +13,7 @@
  - Github: <https://github.com/gaoljhy>
  - 个人主页: <https://hop.grj321.com>
  - 英文主页: <https://gaoljhy.github.io>
- - 自学能力较强，热爱运动，富有则责任感
+ - 自学能力较强，热爱运动
  - 期望职位：后端开发
 
 ----
